@@ -81,4 +81,9 @@ Em **outro terminal**, execute os seguintes comandos a partir da pasta `mvp-fron
 │   └── Gemfile
 │
 └── README.md
+
 ```
+## 🔗 Código Fonte
+
+* **Frontend (React):** [jaugustoguerra/mvp-frontend-react](https://github.com/jaugustoguerra/mvp-frontend-react)
+* **Backend (Ruby on Rails):** [jaugustoguerra/mvp_backend_rails](https://github.com/jaugustoguerra/mvp_backend_rails)
